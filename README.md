@@ -1,6 +1,6 @@
 # Meme Share 
 
-## *Ankush Bhardwaj*
+## *Atul Pandat*
 
 **Memify** is used to enjoy amazing memes and allows you to share them.
 
